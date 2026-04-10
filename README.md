@@ -20,7 +20,7 @@
 ## Usage
 
 ### 1. Requirements
-Ensure you have Python 3.9+ installed on your system.
+Ensure you have Python 3.x installed on your system.
 pip3 install -r requirements.txt
 
 ### 2. Execution

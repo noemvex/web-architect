@@ -77,5 +77,5 @@ python3 noemvex_architect.py -u https://example.com -t 10 -d 2.5
 ---
 ### Developer
 **Emre 'noemvex' Sahin**
-*Red Team Specialist & Security Architect*
+*Cybersecurity Specialist & Red Team Tool Developer*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emresahin-sec) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/noemvex)

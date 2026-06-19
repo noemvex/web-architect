@@ -1,5 +1,9 @@
+# NOEMVEX WEB ARCHITECT v4.1 Shield Rules
+architect_report_*.json
 __pycache__/
 *.pyc
 .env
 .vscode/
-*.json
+._*
+.DS_Store
+desktop.ini
